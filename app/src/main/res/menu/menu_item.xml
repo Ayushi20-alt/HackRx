@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dashboard"
+        android:title="Home"
+        android:icon="@drawable/home_selection"/>
+    <item android:id="@+id/leads"
+        android:title="Leads"
+        android:icon="@drawable/leads_selection"/>
+    <item android:id="@+id/schedule"
+        android:title="Schedule"
+        android:icon="@drawable/schedule_selection"/>
+    <item android:id="@+id/acitvity"
+        android:title="Templates"
+        android:icon="@drawable/activity_selection" />
+    <item android:id="@+id/marketing"
+        android:title="Campaign"
+        android:icon="@drawable/campaign_selection" />
+</menu>
