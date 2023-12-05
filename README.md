@@ -3,7 +3,9 @@
 Leadify is created for the Bajaj hackathon - HackRx 4.0 where we secured the Second Position.
 
 • An Android application for lead generation that web scrapes social media to find business leads.
+
 • It gives graphical representation of insights of the sales funnel.
+
 • Automated tasks such as sending connection messages and running marketing campaigns.
 
 ![iPhone 14 Pro Max - 8](https://github.com/Ayushi20-alt/HackRx/assets/107174083/68751a07-0e82-45ca-bac8-edda3e1ffb3d)
